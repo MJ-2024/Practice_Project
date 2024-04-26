@@ -3,7 +3,7 @@
 ## 프로젝트 소개
 
 <p align="justify">
-csv파일을 사용해 데이터들을 가져와 읽고 딥러닝의 기초 소스코드를 짜 새로운 데이터를 예측함
+CSV파일의 데이터를 pandas 라이브러리를 사용해 가져와 간단한 딥러닝 모델을 만든후 학습시키고 예측까지 하는 프로젝트
   
 </p>
 
@@ -59,6 +59,6 @@ csv파일을 사용해 데이터들을 가져와 읽고 딥러닝의 기초 소�
 ## 라이센스
 
 ###### Stack Icon Refernces : https://img.shields.io
-
+###### Project 도움 : https://codingapple.com
 
 
