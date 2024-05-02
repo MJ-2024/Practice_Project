@@ -17,7 +17,7 @@ CSV파일의 데이터를 pandas 라이브러리를 사용해 가져와 간단�
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Selenium-83B81A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
  
 
